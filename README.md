@@ -23,8 +23,8 @@ El juego continúa hasta que todas las cartas están emparejadas y la cuadrícul
 <br><br>
 
 <div align="center">
-  <img src="https://github.com/Bruno-Guevara/Memori-Game.github.io/blob/main/memo/imagens/Memori-Gamee.png" alt="Demo del Juego" width="500px">
-  <img src="https://github.com/Bruno-Guevara/Memori-Game.github.io/blob/main/memo/imagens/Memori-Game.png" alt="Demo del Juego" width="345px">
+  <img src="https://github.com/Bruno-Guevara/Memori-Game.github.io/blob/main/memo/imagens/Memori-Gamee.png" alt="Demo del Juego" width="400px">
+  <img src="https://github.com/Bruno-Guevara/Memori-Game.github.io/blob/main/memo/imagens/Memori-Game.png" alt="Demo del Juego" width="275px">
 </div>
 
 ## Uso
