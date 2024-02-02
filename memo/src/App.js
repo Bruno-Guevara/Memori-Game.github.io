@@ -13,6 +13,7 @@ const App = () => {
   const [showResetButton, setShowResetButton] = useState(false);
   const [showInstructions, setShowInstructions] = useState(false);
   const [showConfetti, setShowConfetti] = useState(false);
+  
 
   useEffect(() => {
     const shuffledEmojiList = shuffleArray([...emojiList, ...emojiList]);
@@ -71,6 +72,7 @@ const App = () => {
   // Determina si se deben mostrar las instrucciones debajo del h1
   const shouldShowResetButton = shuffledMemoBlocks.every(block => block.flipped);
 
+
   return (
     <div className="app-container">
       <h1>Juego de Memoria</h1>
@@ -78,6 +80,7 @@ const App = () => {
         <button className="buttonn" onClick={handleInstructionsClick}>
           ¿Cómo jugar?
         </button>
+        
       </div>
       <div className="button-container">
         <Board
