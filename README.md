@@ -14,27 +14,39 @@ El juego continúa hasta que todas las cartas están emparejadas y la cuadrícul
 - Mecánica de juego intuitiva y desafiante.
 - Animaciones suaves para mejorar la experiencia del usuario.
 
-<div align="right">
-  <img src="" alt="Demo del Juego" width="500px">
+<div align="center">
+  <img src="https://github.com/Bruno-Guevara/Memori-Game.github.io/blob/main/memo/imagens/V%C3%ADdeoo2.gif" alt="Demo del Juego" width="400px">
+  <img src="https://github.com/Bruno-Guevara/Memori-Game.github.io/blob/main/memo/imagens/V%C3%ADdeo01.gif" alt="Demo del Juego" width="400px">
+</div><br><br>
+
+# imagenes demostrativas 
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/Bruno-Guevara/Memori-Game.github.io/blob/main/memo/imagens/Memori-Gamee.png" alt="Demo del Juego" width="500px">
+  <img src="https://github.com/Bruno-Guevara/Memori-Game.github.io/blob/main/memo/imagens/Memori-Game.png" alt="Demo del Juego" width="345px">
 </div>
-
-## Tecnologías Implementadas
-
-- React: Utilizado para la construcción de la interfaz de usuario y la gestión eficiente del estado del juego.
-- JavaScript: Lenguaje principal para la lógica del juego y la manipulación del DOM.
-- HTML/CSS/JSX: Fundamentales para la estructura, estilo y representación visual del juego.
-
-## Instalación
-
-1. Clona este repositorio.
-2. Abre el archivo `index.html` en tu navegador.
 
 ## Uso
 
 1. Haz clic en una carta para revelar su emoji.
 2. Selecciona otra carta e intenta encontrar el par correspondiente.
 3. El juego continúa hasta que todas las cartas están emparejadas.
+## Tecnologías Implementadas
 
+- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; Utilizado para la construcción de la interfaz de usuario y la gestión eficiente del estado del juego.
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; Lenguaje principal para la lógica del juego y la manipulación del DOM.
+- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;/![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;/![JSX](https://img.shields.io/badge/-JSX-05122A?style=flat&logo=jsx&logoColor=white) Fundamentales para la estructura, estilo y representación visual del juego.
+
+### Instalación
+
+1. Clona este repositorio usando el siguiente comando en tu terminal:
+
+   ```bash
+   git clone https://github.com/Bruno-Guevara/Memori-Game.github.io.git
+2. Para acceder al citio web abri tu editor de codigo y en la termina ejecuta la siguiente instruccion ↓instruccion↓ dentro del directorio **memo**
+    ```bash
+    npm start
 ## Contribución
 
 ¡Estamos abiertos a contribuciones! Si deseas mejorar el juego, sigue estos pasos:
